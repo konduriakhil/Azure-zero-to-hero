@@ -1,7 +1,9 @@
 # Azure Resources vs Azure Services
 
   * Azure has somy services like computing services (vm), storage services (storage) etc.,
+      * virtual machine service
   * Azure resource is nothing but the instance(single piece) of a service
+      * virtual machine resource 
 
 # Azure Resources
 
@@ -34,4 +36,12 @@ A **Resource Group** in Azure is a logical container for resources that share th
 - **Tagging and Categorization:** You can use tags to label and categorize resources, making it easier to manage and organize your Azure environment.
 
 **Note:** Understanding Azure resources, resource groups, and Azure Resource Manager is fundamental to effectively utilize and manage your resources in the Azure cloud.
-
+   * One resource can belongs to one resource group 
+   * It is better to have resource groups for one project 
+       * finance
+       * transactions
+       * payments
+   * If you have only one project have resource groups for different environments
+       * finance-dev
+       * finance-qa
+        
