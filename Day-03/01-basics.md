@@ -1,3 +1,8 @@
+# Azure Resources vs Azure Services
+
+  * Azure has somy services like computing services (vm), storage services (storage) etc.,
+  * Azure resource is nothing but the instance(single piece) of a service
+
 # Azure Resources
 
 Azure resources are the building blocks of your cloud infrastructure in Microsoft Azure. These resources can be virtual machines, databases, storage accounts, or any other service offered by Azure. Each resource is a manageable item in Azure, and they are provisioned and managed individually.
