@@ -67,3 +67,5 @@ Azure VPN Gateway provides secure, site-to-site connectivity between your on-pre
 - **High Availability**: Supports active-active and active-passive configurations for high availability.
 
 - **BGP Support**: Allows dynamic routing between your on-premises network and Azure.
+
+![alt text](images/azure1.png)
